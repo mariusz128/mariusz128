@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="voyo.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/PRO_TV_Logo_%282017-present%29.svg" group-title="General",Pro TV HD
+#EXTINF:-1 tvg-id="voyo.ro" tvg-logo="https://bb-media.com/wp-content/uploads/2024/06/br6I1Dcs4HBlIL856FRdQAfB_MyVBkq42rmiEWXjnuhXI35Gr-VLV6v9EaLFsPp6oA.png" group-title="General",Pro TV HD
 https://raw.githubusercontent.com/mariusz128/mariusz128/refs/heads/main/iptv/ro/protv.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="News",Antena 3 CNN
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-logo="https://i.imgur.com/2z4F1UT.png" group-title="News",Digi 24 (576p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="Antena 1" tvg-logo="https://assets.antenaplay.ro/2023/08/17/s7ORLTEcvXhoMzR9L22V.png" group-title="General",Antena 1 (720p)
-https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
-#EXTINF:-1 tvg-id="Realitatea FM" tvg-logo="https://radiorfm.ro/wp-content/uploads/logo-radio-rfm.png" group-title="News",Realitatea FM
-https://shout.realitatea.net:8001/mixt
+https://raw.githubusercontent.com/mariusz128/mariusz128/refs/heads/main/iptv/ro/a1.m3u8
+#EXTINF:-1 tvg-id="Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Prima_TV_%282021%29.png" group-title="General",Prima
+https://raw.githubusercontent.com/mariusz128/mariusz128/refs/heads/main/iptv/ro/prima.m3u8
 #EXTINF:-1 tvg-id="Realitatea.Net" tvg-logo="https://assets.antenaplay.ro/2024/06/04/ULmSJdvoTiHdUgVT5DSj.png" group-title="News",Realitatea Plus (720p)
 https://example.com
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Music",Rock TV (720p)
